@@ -1,6 +1,6 @@
-### Hi 👋, my name is Saiful Ajom Khan
+## Hi 👋, my name is Saiful Ajom Khan
 
-#### I am a Web Developer (with React.js and Next.js)
+### I am a Web Developer (with React.js and Next.js)
 
 - 🔭 I’m currently working on Bashundhara Group
 - 🌱 I’m currently learning Backend Side (Node.js, MySQL & MongoDB)
