@@ -2,8 +2,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
-- 🔭 I’m currently working on Bashundhara Group
-- 👯 I’m looking to collaborate on React.js, Next.js, JavaScript, Node.js, MongoDB, MySQL, Redux,Taildwind, Bootstrap,  etc.
+- 🔭 I’m looking to collaborate on React.js, Next.js, JavaScript, Node.js, MongoDB, MySQL, Redux,Taildwind, Bootstrap,  etc.
 <!-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.vercel.app" target="_blank">Portfolio</a>**-->
 - 📫 How to reach me:  sajomkhan@gmail.com  |  WhatsApp: +8801911977375
 
