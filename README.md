@@ -6,7 +6,7 @@
 <!-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.vercel.app" target="_blank">Portfolio</a>**-->
 - 📫 How to reach me:  sajomkhan@gmail.com  |  WhatsApp: +8801911977375
 
-<h3 align="left">Web Tech Stack :</h3>
+<h3 align="left">Languages :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -15,6 +15,8 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <br>
+</br>
+<h3 align="left">Web Tech Stack :</h3>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
