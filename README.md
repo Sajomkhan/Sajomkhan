@@ -3,9 +3,9 @@
 
 - 🌱 Learning Never Stops 🚀
 - 🔭 I’m currently working on Bashundhara Group
-- 👯 I’m looking to collaborate on React.js, Next.js, JavaScript, Node.js, MongoDB, Redux,Taildwind, Bootstrap,  etc.
+- 👯 I’m looking to collaborate on React.js, Next.js, JavaScript, Node.js, MongoDB, MySQL, Redux,Taildwind, Bootstrap,  etc.
 <!-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.vercel.app" target="_blank">Portfolio</a>**-->
-- 📫 How to reach me: sajomkhan@gmail.com | WhatsApp: +8801911977375
+- 📫 How to reach me:  sajomkhan@gmail.com  |  WhatsApp: +8801911977375
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -24,8 +24,6 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
-
-<!-- ![I am a Web Developer (with React and Next)](https://img.freepik.com/free-psd/technology-digital-wave-background-conceptbeautiful-motion-waving-dots-texture-with-glowing-focused-particles-editable-color_511042-525.jpg?w=1060&t=st=1676303953~exp=1676304553~hmac=1d218f34a6697661475dac79642f475d5241c29de21dcbc1840c67b140612c9b) -->
 
 
 
