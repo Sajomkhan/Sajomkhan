@@ -7,7 +7,7 @@
 - 📫 How to reach me:  sajomkhan@gmail.com  |  WhatsApp: +8801911977375
 
 #### My Portfolio's Link: https://portfolio-saiful-ajom-khan.netlify.app/
-[![name](https://res.cloudinary.com/dcqw2t8r1/image/upload/v1694159951/my_portfolio/my_portfolio_kbsj1q.png)](https://portfolio-saiful-ajom-khan.netlify.app/){:height="200px" width="200px"}
+[![name](https://res.cloudinary.com/dcqw2t8r1/image/upload/v1694159951/my_portfolio/my_portfolio_kbsj1q.png)](https://portfolio-saiful-ajom-khan.netlify.app/){:height="120px" width="200px"}
 
 <h3 align="left">Languages :</h3>
 <div align="left">
