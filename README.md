@@ -3,8 +3,8 @@
 
 - 🌱 Learning Never Stops 🚀
 - 🔭 I’m looking to collaborate on React.js, Next.js, TypeScript, JavaScript, Node.js, MongoDB, MySQL, Redux,Taildwind, Bootstrap,  etc.
-- #### 👨‍💻 Check out my personal portfolio: https://portfolio-saiful-ajom-khan.netlify.app/
-- [<img src="https://res.cloudinary.com/dcqw2t8r1/image/upload/v1694159951/my_portfolio/my_portfolio_kbsj1q.png" alt="image" width="250" height="150">](https://portfolio-saiful-ajom-khan.netlify.app/)
+- #### 👨‍💻 Check out my personal portfolio:
+- [<img src="https://res.cloudinary.com/dcqw2t8r1/image/upload/v1694159951/my_portfolio/my_portfolio_kbsj1q.png" alt="image" width="350" height="200">](https://portfolio-saiful-ajom-khan.netlify.app/)
 - 📫 How to reach me:  sajomkhan@gmail.com  |  WhatsApp: +8801911977375
 - 
 <h3 align="left">Languages :</h3>
