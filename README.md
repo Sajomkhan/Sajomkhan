@@ -6,7 +6,7 @@
 - #### 👨‍💻 Check out my personal portfolio:
 - [<img src="https://res.cloudinary.com/dcqw2t8r1/image/upload/v1694159951/my_portfolio/my_portfolio_kbsj1q.png" alt="image" width="350" height="200">](https://portfolio-saiful-ajom-khan.netlify.app/)
 - 📫 How to reach me:  sajomkhan@gmail.com  |  WhatsApp: +8801911977375
-- 
+
 <h3 align="left">Languages :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
